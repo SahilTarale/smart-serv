@@ -4,7 +4,7 @@ import axios from "axios";
 import Home from "./Home/Home";
 import Login from "./Login/Login";
 import Register from "./Register/Register";
-import DetailView from "./Components/DetailView";
+
 
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <Route path="/" element={<Home />} />
       <Route path="/login" element={<Login />} />
       <Route path="/register" element={<Register />} />
-      <Route path="/detailview" element={<DetailView />} />
+      
     </Routes>
     </BrowserRouter>
     

@@ -51,7 +51,7 @@ const Navbar = () => {
       <div className="navbar">
         <div className="navContainer">
         <Link to="/" style={{color:"inherit", textDecoration:"none"}}>
-          <span className="logo">News App </span>
+          <span className="logo">SmartSERV App </span>
         </Link>     
           
           {authUser ? (
