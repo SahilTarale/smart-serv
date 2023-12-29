@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SahilTarale/smart-serv/static/css/main.2950652a.css",
+    "main.js": "/SahilTarale/smart-serv/static/js/main.3a8125f2.js",
+    "static/media/logo.png": "/SahilTarale/smart-serv/static/media/logo.dc01fee548dea2247884.png",
+    "index.html": "/SahilTarale/smart-serv/index.html",
+    "main.2950652a.css.map": "/SahilTarale/smart-serv/static/css/main.2950652a.css.map",
+    "main.3a8125f2.js.map": "/SahilTarale/smart-serv/static/js/main.3a8125f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2950652a.css",
+    "static/js/main.3a8125f2.js"
+  ]
+}
